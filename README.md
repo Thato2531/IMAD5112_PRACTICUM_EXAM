@@ -6,7 +6,7 @@ The core functionality involves displaying a list of songs with their respective
 
 This app demonstrates how to pass data between activities using Intent extras, handle user interactions with buttons, and display complex data in a readable manner.
 
-#HOW TO USE THE APP
+# HOW TO USE THE APP
 Firstly install the app on your mobile devive
 Press "Add to Playlist" Buton to insert your playist( artist, song name, rate, comment)
 Press "View Playlist to check out your playlist that you created
